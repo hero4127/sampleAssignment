@@ -9,6 +9,5 @@ Thanks for giving me this Opportunity.
 ## About Project Files
 
 ◉ 'ApiManager.dart' file contains Api function to fetch Movies.
-
 ◉ There are 2 Models 'Movies' for storing result recieved from Api response and 'StateModel' to manage states and overall state of Application.
 ◉ 'Constants.dart' contains all the Constants required in the Project like Api Base URl, etc.
