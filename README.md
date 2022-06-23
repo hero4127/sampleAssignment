@@ -13,3 +13,7 @@ Thanks for giving me this Opportunity.
 ◉ There are 2 Models 'Movies' for storing result recieved from Api response and 'StateModel' to manage states and overall state of Application.
 
 ◉ 'Constants.dart' contains all the Constants required in the Project like Api Base URl, etc.
+
+
+## Note : 
+I was not getting the Imdb raiting in response from the api so I have Added static raiting to all Movies.
