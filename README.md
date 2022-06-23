@@ -16,4 +16,5 @@ Thanks for giving me this Opportunity.
 
 
 ## Note : 
-I was not getting the Imdb raiting in response from the api so I have Added static raiting to all Movies.
+I was not getting the Imdb raiting If I use search 's' in the Url 'http://www.omdbapi.com/?apikey=[yourkey]&s=[searchKeyWord]' but If I can get the Imdb rating if I use ImbdId in Url 'http://www.omdbapi.com/?i=[ImbdId]&apikey=[yourkey]' but Initially I don't have the ImbdId I can get the ImbdId from the above Url. So to Fix this I will have to call the url with ImbdId and I have to call this api 'n' number if times. Here 'n' refers to the total result fetched from search APi.
+So for now I have added static Imbd Rating.
