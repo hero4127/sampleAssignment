@@ -9,7 +9,7 @@ Thanks for giving me this Opportunity.
 ## Application
 1) First Navigation Button leads to Design Page (Default).
 2) Second NAvigation Button leads to seach of movies page.
-#) Third Navigation Button leads to Nothing.
+3) Third Navigation Button leads to Nothing.
 
 
 ## About Project Files
