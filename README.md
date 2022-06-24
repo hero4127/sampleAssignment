@@ -6,6 +6,12 @@ Thanks for giving me this Opportunity.
 2) To build the apk you could use 'flutter build apk' command in the project directory.
 
 
+## Application
+1) First Navigation Button leads to Design Page (Default).
+2) Second NAvigation Button leads to seach of movies page.
+#) Third Navigation Button leads to Nothing.
+
+
 ## About Project Files
 
 ◉ 'ApiManager.dart' file contains Api function to fetch Movies.
